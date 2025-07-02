@@ -1,5 +1,16 @@
-Here you can say lots of fun things about your site.
+---
+layout: default
+title: Home
+---
 
-Maybe say a some things about yourself.
+I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
 
-Or maybe what you plan to blog about.
+## Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%b %-d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
