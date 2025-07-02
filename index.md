@@ -16,7 +16,23 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
 </ul>
 <!-- Gap Section -->
 <div style="height: 40px;"></div> <!-- This adds space between sections -->
+## Medium Articles
 
+<ul>
+  <li>
+    <a href="https://medium.com/@yourusername/how-i-exploited-app-runner-to-gain-shell-access-abc123" target="_blank">
+      How I Exploited App Runner to Gain Shell Access
+    </a> — Published on Medium
+  </li>
+  <li>
+    <a href="https://medium.com/@yourusername/flying-under-the-radar-with-aws-iam-part-1-xyz456" target="_blank">
+      Flying Under the Radar with AWS IAM – Part 1
+    </a> — Published on Medium
+  </li>
+</ul>
+
+<!-- Gap Section -->
+<div style="height: 40px;"></div>
 ## My Talks
 Here are some of the talks I've delivered:
 <!-- Gap Section -->
