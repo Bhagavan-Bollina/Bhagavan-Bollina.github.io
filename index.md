@@ -14,10 +14,13 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
     </li>
   {% endfor %}
 </ul>
+<!-- Gap Section -->
+<div style="height: 40px;"></div> <!-- This adds space between sections -->
 
 ## My Talks
-
 Here are some of the talks I've delivered:
+<!-- Gap Section -->
+<div style="height: 40px;"></div> <!-- This adds space between sections -->
 
 <ul>
   <li>
