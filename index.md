@@ -25,9 +25,9 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
     </a> — Published on Medium
   </li>
   <li>
-    <a href="https://medium.com/@yourusername/flying-under-the-radar-with-aws-iam-part-1-xyz456" target="_blank">
+    <a href="https://0xcriminal.gitbook.io/flying-under-radar-aws-iam/" target="_blank">
       Flying Under the Radar with AWS IAM – Part 1
-    </a> — Published on Medium
+    </a> — Published on GitBook
   </li>
 </ul>
 
