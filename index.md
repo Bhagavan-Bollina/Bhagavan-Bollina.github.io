@@ -20,7 +20,7 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
 
 <ul>
   <li>
-    <a href="[https://blog.appsecco.com/getting-shell-and-data-access-in-aws-app-runner-3632e844bc77](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-app-runner-3632e844bc77)" target="_blank">
+    <a href="[](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-app-runner-3632e844bc77)" target="_blank">
       How I Exploited App Runner to Gain Shell Access
     </a> — Published on Medium
   </li>
