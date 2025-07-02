@@ -20,9 +20,14 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
 
 <ul>
   <li>
+    <a href="https://medium.com/legionhunters/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74" target="_blank">
+      How I Chained Recon and IDOR to Access 100's of Credit Cards
+    </a> — Published on LegionHunters
+  </li>
+  <li>
     <a href="https://blog.appsecco.com/getting-shell-and-data-access-in-aws-app-runner-3632e844bc77" target="_blank">
       How I Exploited App Runner to Gain Shell Access
-    </a> — Published on Medium
+    </a> — Published on Appsecco
   </li>
   <li>
     <a href="https://0xcriminal.gitbook.io/flying-under-radar-aws-iam/" target="_blank">
@@ -47,11 +52,16 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
   <li>
     <a href="https://hacklido.com/blog/481-begin-your-cloud-security-journey-solving-flawscloud-part-2" target="_blank">
       Begin your cloud security journey: Solving Flaws.cloud Part-2
-    </a> — Published on Medium
+    </a> — Published on Hacklido
   </li>
   <li>
     <a href="https://lightfield.app/xcriminal/mind-the-gap-identifying-and-addressing-weaknesses-in-your-gcp-clelfpmqg09u26m3z0a98z8ek" target="_blank">
       Mind the gap in your GCP
+    </a> — Published on Tome.ai
+  </li>
+  <li>
+    <a href="https://blog.appsecco.com/my-adventures-as-an-intern-appsecco-85c2b90a5194" target="_blank">
+      My adventures as an intern @Appsecco
     </a> — Published on Tome.ai
   </li>
 </ul>
