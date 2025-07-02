@@ -24,15 +24,24 @@ Here are some of the talks I've delivered:
 
 <ul>
   <li>
-    <strong>Talk Title 1</strong> — Delivered at [Event Name](#) on [Date]
-    <p>Description of the talk and key takeaways. You can include a link to the video or slides here as well.</p>
+    <strong>Talk: How to be Safe on the Internet</strong> — Delivered at [Girlscript Ireland](#) 
   </li>
   <li>
-    <strong>Talk Title 2</strong> — Delivered at [Event Name](#) on [Date]
-    <p>Description of the talk and key takeaways.</p>
+    <strong>Talk: Flying Under Radar - AWS IAM 1</strong> — Delivered at [Null Hyderabad Chapter 2022](#)
   </li>
   <li>
-    <strong>Talk Title 3</strong> — Delivered at [Event Name](#) on [Date]
-    <p>Description of the talk and key takeaways.</p>
+    <strong>Talk: Flying Under Radar - AWS IAM 2</strong> — Delivered at [Null Hyderabad Chapter 2022](#)
+  </li>
+  <li>
+    <strong>Talk: Mind the Gap: Identifying and Addressing Weaknesses in Your GCP</strong> — Delivered at [Null Hyderabad Chapter 2023](#)
+  </li>
+  <li>
+    <strong>Trainer: Breaking & Pwning Servers and Applications in AWS & GCP</strong> — Delivered at [Nullcon 2022](#)
+  </li>
+  <li>
+    <strong>Speaker: Getting Shell and Data Access in AWS App Runner - A Journey from Initial Foothold to Compromising the AWS Infra</strong> — Delivered at [Bsides CDMX 2023](#)
+  </li>
+  <li>
+    <strong>Trainer: Breaking & Pwning Servers and Applications in AWS & GCP</strong> — Delivered at [Bsides Bangalore 2023](#)
   </li>
 </ul>
