@@ -17,7 +17,7 @@ I’m Bhagavan Bollina, aka 0xcriminal, a hacker and security aficionado!
 
 <!-- Gap Section -->
 <div style="height: 60px;"></div> <!-- Adds space between sections -->
-
+It can easily be seen when opening Event Viewer. {: .prompt-tip}
 ## Medium Articles
 
 <ul style="list-style-type: none; padding-left: 0;">
